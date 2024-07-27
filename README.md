@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Subhashree Hema</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gif%20images%20of%20ui%20designer&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F0*5oiuLeF3ZzHCLBCc.gif&imgrefurl=https%3A%2F%2Fmedium.muz.li%2Ftop-ui-ux-design-works-for-inspiration-3-338a1d0f0fff&docid=klAJ5ghupSs38M&tbnid=rRpRnCnR0H8EKM&vet=12ahUKEwim4_KV28aHAxXTVmwGHbdfFtgQM3oECFoQAA..i&w=600&h=450&hcb=2&ved=2ahUKEwim4_KV28aHAxXTVmwGHbdfFtgQM3oECFoQAA">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/5885477/media/2ba736acb77cbd265e1ee1bec4486bf2.gif">
 
 🌱 I’m currently learning **Animation**
 
