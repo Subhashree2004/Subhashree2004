@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Subhashree Hema S</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-<img align="right" alt="design" width="400" src="https://s3.amazonaws.com/mobileappdaily/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif">
+<img align="right" alt="design" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*9BrpVqQkpXGPP4fLcrk5Dw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashree2004&label=Profile%20views&color=0e75b6&style=flat" alt="subhashree2004" /> </p>
 
