@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Subhashree Hema S</h1>
+<h1 align="center">Hi 👋, I'm Subhashree Hema</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 <img align="right" alt="design" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*9BrpVqQkpXGPP4fLcrk5Dw.gif">
 
